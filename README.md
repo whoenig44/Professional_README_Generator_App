@@ -1,10 +1,10 @@
-# Professional_README_App
+# Sample README File
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-README_Generator
+Enter Description of Project here
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ README_Generator
 
 ## Installation
 
-Download the source code from the Github Repo and run 'npm run start'
+Just download this source code to your local machine and run 'npm run start'
 
 ## Usage
 
-Located on the Github page
+Use for all README file needs creating new README's for new applications
 
 ## Contributing
 
-sdf
+All questions may be directed to whoenig44 on Github.com
 
 ## Tests
 
-sdf
+If npm i has already been run, feel free to use npm run dev to run the README Generator App
 
 ## License
 
