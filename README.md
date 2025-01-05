@@ -1,10 +1,10 @@
-# Sample README File
+# Demonstration
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Enter Description of Project here
+App Demo for new users
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ Enter Description of Project here
 
 ## Installation
 
-Just download this source code to your local machine and run 'npm run start'
+Git pull from repository and run 'npm run start'
 
 ## Usage
 
-Use for all README file needs creating new README's for new applications
+General README generation needs
 
 ## Contributing
 
-All questions may be directed to whoenig44 on Github.com
+N.A.
 
 ## Tests
 
-If npm i has already been run, feel free to use npm run dev to run the README Generator App
+Feel free to try npm i and then node index.js with debugger turned on
 
 ## License
 
